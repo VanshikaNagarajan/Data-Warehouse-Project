@@ -1,6 +1,0 @@
-CREATE SCHEMA bronze
-	AUTHORIZATION postgres;
-CREATE SCHEMA silver
-	AUTHORIZATION postgres;
-CREATE SCHEMA gold
-	AUTHORIZATION postgres;
